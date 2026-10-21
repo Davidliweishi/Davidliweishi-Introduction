@@ -1,5 +1,3 @@
-# Davidliweishi-Introduction
-
 # Hi, I'm David 👋
 
 Computer Science student at **Swinburne University** (Cybersecurity major) and **Software Engineering Intern at [Focus Bear](https://focusbear.io)**, a Melbourne startup building a productivity app for people with ADHD.
@@ -22,13 +20,26 @@ All work goes through code review, and I use Claude Code for automated review, d
 
 ---
 
-## 📂 Featured projects
+## 🎓 Swinburne projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| [Phishing URL Detection](LINK) | Full-stack app that classifies URLs as phishing or legitimate using lexical features (80% test accuracy) | Python, scikit-learn, React, Node.js |
-| [Archery Score Database](LINK) | Relational database designed from client requirements to replace an outdated system | SQL |
-| [Gaming Company Website](LINK) | Responsive multi-page site with user authentication, built in a team | HTML, CSS, JavaScript, PHP |
+Bachelor of Computer Science (Cybersecurity major) · Distinction average
+
+**🎣 [Phishing URL Detection](https://github.com/Davidliweishi/Phishing-URL-Detection-Machine-Learning-Project)** · *Full-stack + machine learning · team of 3*
+A web app that tells you whether a URL is likely to be phishing. We engineered lexical features (URL length, special characters, subdomains) from curated datasets and trained a Random Forest model that reached **80% accuracy** on test data. I built [MY PART, e.g. the React frontend and the Node.js API that serves real-time predictions].
+`Python` `scikit-learn` `React` `Node.js`
+
+**🏹 [Archery Score Database](LINK)** · *Database design · team of 4*
+Redesigned an outdated score-recording system for a client archery club. We gathered stakeholder requirements, turned them into a relational schema, built the database and handed it over with documentation.
+`SQL` `Relational design` `Requirements gathering`
+
+**🎮 [Gaming Company Website](LINK)** · *Web Development Technology (COS10005) · Distinction · team project*
+A multi-page, responsive website for a mock gaming company, with custom CSS and user login/authentication. We managed the codebase together through Git.
+`HTML` `CSS` `JavaScript` `PHP`
+
+**🎵 [Music Player](LINK)** · *Command-line app*
+A Ruby CLI music player with menus for browsing albums and track lists and selecting songs to play.
+`Ruby`
+
 
 ---
 
